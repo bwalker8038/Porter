@@ -1,5 +1,9 @@
 source 'http://rubygems.org'
 
+# active admin
+gem 'activeadmin'
+
+# rails version
 gem 'rails', '3.1.0'
 
 # Bundle edge Rails instead:
