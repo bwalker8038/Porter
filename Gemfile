@@ -3,6 +3,9 @@ source 'http://rubygems.org'
 # active admin
 gem 'activeadmin'
 
+# password encryption method
+gem 'bcrypt-ruby', :require => 'bcrypt'
+
 # rails version
 gem 'rails', '3.1.0'
 
